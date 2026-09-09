@@ -14,6 +14,8 @@ An AI-powered Streamlit application that extracts content from **YouTube videos 
 * 🔐 Groq API key entered securely through the Streamlit sidebar
 
 ## 🏗️ How It Works
+<img width="807" height="443" alt="image" src="https://github.com/user-attachments/assets/4c03bc1a-bbf9-432a-b85b-7213d3b3b550" />
+
 
 ```text
                 User
