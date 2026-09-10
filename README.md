@@ -6,6 +6,7 @@ An AI-powered Streamlit application that extracts content from **YouTube videos 
 
 * 🎥 Summarize YouTube video transcripts
 * 🌐 Summarize content from any valid website URL
+  
 * 🤖 Powered by Groq LLMs
 * 🔗 Built with LangChain
 * 📝 Custom prompt-based summarization
